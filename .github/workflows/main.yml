@@ -1,0 +1,2 @@
+- name: Page Speed Insights
+  uses: JakePartusch/psi-action@v1.3
